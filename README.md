@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=HoangDat47)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
 <!--
 **HoangDat47/HoangDat47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
