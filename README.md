@@ -3,7 +3,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/HoangDat47"><img src="ezgif.com-crop.gif" alt="Banner"></a>
-  <span align="center">Watch with me 🤔</span>
+  <h3 align="center">Watch with me 🤔</h3>
 </p>
   
 <!--
