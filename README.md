@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
 <br>
 <p align="center">
-  <a href="https://github.com/gin614pham"><img src="banner1.jpg" alt="Banner"></a>
+  <a href="https://github.com/HoangDat47"><img src="ezgif.com-crop.gif" alt="Banner"></a>
 </p>
   
 <!--
