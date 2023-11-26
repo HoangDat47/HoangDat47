@@ -1,4 +1,4 @@
-### こんにちは！ 👋
+# こんにちは！ 👋
 ![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
 <br>
 <p align="center">
@@ -6,7 +6,7 @@
   <h3 align="center">Watch with me 🤔</h3>
 </p>
 
-### Some idea ✨
+## Some idea ✨
 ⚡ Fun fact: You can put anything you like in this file if you find my flag.
 
 
