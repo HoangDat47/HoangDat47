@@ -1,7 +1,9 @@
 ### こんにちは！ 👋
 ![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
 <br>
-![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
+<p align="center">
+  <a href="https://github.com/gin614pham"><img src="banner1.jpg" alt="Banner"></a>
+</p>
   
 <!--
 **HoangDat47/HoangDat47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
