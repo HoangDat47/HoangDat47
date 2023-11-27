@@ -9,9 +9,6 @@
 
 ## Some idea ✨
 ⚡ Fun fact: You can put anything you like in this file if you find my flag.
-<h1 align="center">
-  <img src="layer.svg" alt="layer" />
-</h1>
 
 <!--
 **HoangDat47/HoangDat47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
