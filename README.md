@@ -7,11 +7,6 @@
   <h3 align="center">Watch with me 🤔</h3>
 </p>
 -->
-## Some idea ✨
-⚡ Fun fact: You can put anything you like in this file if you find my flag.
-
-<!--
-**HoangDat47/HoangDat47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
