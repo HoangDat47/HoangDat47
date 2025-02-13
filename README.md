@@ -2,8 +2,8 @@
 <img align='right' src="1200516.png"  style="margin:10px; ">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square">
-  <img src="https://img.shields.io/youtube/channel/views/UC41cQXFLjmI887cqPSGwKIw?style=social">
+  <img src="https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square" style="margin: 5px 0;">
+  <img src="https://img.shields.io/youtube/channel/views/UC41cQXFLjmI887cqPSGwKIw?style=social" style="margin: 5px 0;">
 </div>
 <br>
 
