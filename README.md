@@ -1,8 +1,10 @@
 <h2> こんにちは！ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="1200516.png"  style="margin:10px; ">
 
-![](https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC41cQXFLjmI887cqPSGwKIw?style=social)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HoangDat47&color=brightgreen&style=flat-square">
+  <img src="https://img.shields.io/youtube/channel/views/UC41cQXFLjmI887cqPSGwKIw?style=social">
+</div>
 <br>
 
 
