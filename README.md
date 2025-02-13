@@ -9,7 +9,7 @@
 
 
 ### <img src="38474d916b856cd5.png" width="30"> 私についてもう少し... 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangDat47&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangDat47&layout=compact&langs_count=10&hide=html,css)
 
 <!--
 <p align="center">
